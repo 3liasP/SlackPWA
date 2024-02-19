@@ -1,0 +1,13 @@
+# Example .desktop entry for this Application
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Slack PWA
+Comment=Slack PWA for Linux
+Exec=/path/to/slack-pwa.sh
+Icon=/path/to/desktop/slack-pwa.png
+Path=
+Terminal=false
+StartupNotify=true
+Categories=GNOME;GTK;Network;InstantMessaging;
+StartupWMClass=slack-pwa
